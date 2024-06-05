@@ -37,7 +37,7 @@ Coming soon...
   - run 'rails db:migrate'
   - run 'rails db:seed' 
   - run 'rails server'
-- Clone the front end of the application with git clone https://github.com/sntakirutimana72/final-capstone-frontend to have a copy of the front end
+- Clone the front end of the application with git clone https://github.com/poonamyadav050593/room-booking-app-frontend.git to have a copy of the front end
 - Finally, run the application by doing the following:
   - navigate to the root directory with a command
   run 'npm install'
